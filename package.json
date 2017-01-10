@@ -1,0 +1,23 @@
+{
+  "name": "txe-chat",
+  "version": "1.0.0",
+  "description": "chat functionality for txe network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "txe-chat"
+  },
+  "keywords": [
+    "txe",
+    "chat"
+  ],
+  "author": "Anne",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.2"
+  }
+}
